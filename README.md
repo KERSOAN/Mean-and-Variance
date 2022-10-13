@@ -76,5 +76,5 @@ print("The Hean arrival rate is %.3f "%mean)
 print ("The Variance of arrival from feeder is %.3f"%var)
 print ("The Standard deviation of arrival from feeder is %.3F"%SD)
 ~~~
-# Results and Output : 
+# Output : 
 ![Output](https://user-images.githubusercontent.com/93427182/192949486-823933ae-c7e1-4c3e-838c-f9a54b6d2c8d.png)
